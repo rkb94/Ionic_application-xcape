@@ -1,0 +1,8 @@
+{
+  "name": "Inevitable_Jail",
+  "app_id": "b9624cb3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
