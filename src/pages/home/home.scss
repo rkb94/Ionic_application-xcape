@@ -1,3 +1,15 @@
 page-home {
 
 }
+
+#img{
+    background: none;
+    contain: none;
+}
+
+ion-content{
+    background-color: #FFFAEC;
+    // background-image: url('assets/imgs/bg-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
